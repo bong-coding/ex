@@ -10,6 +10,6 @@ main:
   - name: Blog
     url: blog/
     weight: 20
-  - name: Uses
+  - name: Uses3
     url: uses/
     weight: 30
